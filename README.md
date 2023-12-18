@@ -4,13 +4,9 @@ Brief project description goes here.
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
+- [Getting Started with Create React App](#Getting-Started-with-Create-React-App)
   - [Installing](#installing)
-- [Usage](#usage)
-- [Built With](#built-with)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 # Getting Started with Create React App
 
