@@ -87,5 +87,9 @@ Material-UI is a set of React components that implement Google's Material Design
 ### `npm install @mui/x-data-grid`
 
 
-###Option 2: using yarn
-yarn add @mui/material @emotion/react @emotion/styled
+### Option 2: using yarn
+### `yarn install @mui/material @emotion/react @emotion/styled`
+
+### `yarn install @mui/icons-material`
+
+### `yarn install @mui/x-data-grid`
