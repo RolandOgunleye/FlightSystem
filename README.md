@@ -1,4 +1,4 @@
-# Project Name
+# CPS 510 TOURIST BOOKING SYSTEM
 
 Brief project description goes here.
 
@@ -49,7 +49,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-##Material UI
 
 ### Code Splitting
 
@@ -77,3 +76,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ## Installing Material UI
+
+Material-UI is a set of React components that implement Google's Material Design. You can install it using npm or yarn.
+
+###Option 1: Using npm
+### 'npm install @mui/material @emotion/react @emotion/styled'
+
+### 'npm install @mui/icons-material'
+
+### 'npm install @mui/x-data-grid'
+
+
+###Option 2: using yarn
+yarn add @mui/material @emotion/react @emotion/styled
