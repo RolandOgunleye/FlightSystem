@@ -79,12 +79,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Material-UI is a set of React components that implement Google's Material Design. You can install it using npm or yarn.
 
-###Option 1: Using npm
-### 'npm install @mui/material @emotion/react @emotion/styled'
+### Option 1: Using npm
+### `npm install @mui/material @emotion/react @emotion/styled`
 
-### 'npm install @mui/icons-material'
+### `npm install @mui/icons-material`
 
-### 'npm install @mui/x-data-grid'
+### `npm install @mui/x-data-grid`
 
 
 ###Option 2: using yarn
