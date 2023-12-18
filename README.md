@@ -5,7 +5,7 @@ Brief project description goes here.
 ## Table of Contents
 
 - [Getting Started with Create React App](#Getting-Started-with-Create-React-App)
-  - [Installing](#installing)
+  - [Installing Material UI](#Installing-Material-UI)
 
 
 # Getting Started with Create React App
@@ -74,3 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Installing Material UI
